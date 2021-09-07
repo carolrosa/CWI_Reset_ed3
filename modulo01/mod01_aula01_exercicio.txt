@@ -1,0 +1,22 @@
+Aula 01 - Introdução à Lógica de Programação
+
+Descreva um algoritmo para representar sua rotina matinal, a partir do momento em que você acorda. 
+Use ao menos duas vezes a expressão Se ... Então ....
+Caso queira ir um pouco além do que foi apresentado no vídeo, tente incluir as instruções Se ... Então ... Senão ... e Enquanto ....
+
+Rotina matinal
+
+Acordar 
+Abrir os olhos
+Se estiver de relógio de pulso, 
+    Então verificar o horário no relógio de pulso,
+Senão, verificar o horário no celular
+Levantar da cama
+Se o banheiro estiver desocupado,
+    Então ir ao banheiro
+Ir até a cozinha preparar o café da manhã
+Se a louça estiver suja,
+    Então lavar a louça,
+Senão, separar os pratos e xícaras de todos na casa
+Enquanto as crianças estiverem dormindo,
+    Continuar preparando o café da manhã

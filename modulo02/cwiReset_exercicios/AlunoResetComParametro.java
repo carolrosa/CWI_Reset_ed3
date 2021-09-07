@@ -1,0 +1,9 @@
+package cwiReset_exercicios;
+
+public class AlunoResetComParametro {
+
+    public static void main (String[] args) {
+
+        System.out.println("Sou aluna do Level 1 do CWI Reset! Me chamo " + args[0]);
+    }
+}
